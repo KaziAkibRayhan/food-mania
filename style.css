@@ -34,7 +34,7 @@ h1{
     color: white;
 }
 .person-bg{
-    background-image: url(images/7.png);
+    background-image: url(./images/7.png);
     background-size: 100%;
 }
 .person-img-style{
@@ -85,7 +85,7 @@ h1{
 .feedback-bg{
     height: 520px;
     width: 100%;
-    background-image: url(images/Frame\ 57.jpg);
+    background-image: url(./images/Frame\ 57.jpg);
     background-size: 100%;
 }
 .feedback-input{
@@ -103,7 +103,7 @@ h1{
 }
 .delivary-bg{
     margin-top: 70px;
-    background-image: url(images/Frame\ 59.jpg);
+    background-image: url(./images/Frame\ 59.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
